@@ -1,10 +1,10 @@
 module.exports = {
   title: 'KtMapper',
   tagline: 'A Kotlin "object-to-object" mapper based on naming conventions',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://gabrielkirsten.github.io/docusaurus-example/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'MovilePay',
+  organizationName: 'gabrielkirsten',
   projectName: 'KtMapper', 
   themeConfig: {
     navbar: {
