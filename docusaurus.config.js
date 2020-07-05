@@ -55,7 +55,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `<img class="footer__logo" src="/img/mpay_logo.png" alt="MovilePay"> </br> Copyright © ${new Date().getFullYear()} MovilePay. Built with Docusaurus.`,
+      copyright: `<img class="footer__logo" src="img/mpay_logo.png" alt="MovilePay"> </br> Copyright © ${new Date().getFullYear()} MovilePay. Built with Docusaurus.`,
     },
   },
   presets: [
