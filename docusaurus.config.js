@@ -1,8 +1,8 @@
 module.exports = {
   title: 'KtMapper',
   tagline: 'A Kotlin "object-to-object" mapper based on naming conventions',
-  url: 'https://gabrielkirsten.github.io/docusaurus-example/',
-  baseUrl: '/',
+  url: 'https://gabrielkirsten.github.io/',
+  baseUrl: '/docusaurus-example/',
   favicon: 'img/favicon.ico',
   organizationName: 'gabrielkirsten',
   projectName: 'docusaurus-example', 
