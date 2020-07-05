@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'gabrielkirsten',
-  projectName: 'KtMapper', 
+  projectName: 'docusaurus-example', 
   themeConfig: {
     navbar: {
       title: 'KtMapper',
